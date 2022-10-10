@@ -5,6 +5,10 @@ excerpt: "共知総合法律事務所様の事務所開業の伴いサイト作�
 cover_image: "/images/posts/img2.jpg"
 ---
 
+## 名称
+
+[共知総合法律事務所](http://kyochi-law.com/)
+
 ## 概要
 
 [共知総合法律事務所様](http://kyochi-law.com/)の事務所開業の伴いサイト作成を行いました。

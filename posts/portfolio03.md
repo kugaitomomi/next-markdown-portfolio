@@ -5,6 +5,10 @@ excerpt: "Blue Ocean Ishigaki様の新規オープンに伴いサイト作成を
 cover_image: "/images/posts/img1.jpg"
 ---
 
+## 名称
+
+[Blue Ocean Ishigaki](https://www.blueocean-ishigaki.com/)
+
 ## 概要
 
 [Blue Ocean Ishigaki 様](https://www.blueocean-ishigaki.com/)の新規オープンに伴いサイト作成を行いました。

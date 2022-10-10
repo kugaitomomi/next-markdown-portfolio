@@ -5,6 +5,10 @@ excerpt: "ミック経済研究所株式会社様のリニューアルサイト�
 cover_image: "/images/posts/img3.jpg"
 ---
 
+## 名称
+
+[ミック経済研究所株式会社](https://mic-r.co.jp/)
+
 ## 概要
 
 [ミック経済研究所株式会社様](https://mic-r.co.jp/)のリニューアルサイトを手掛けました。
