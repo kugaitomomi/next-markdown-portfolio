@@ -1,6 +1,6 @@
 ---
 title: "Portfolio01"
-date: "Oct 10, 2022"
+date: "Oct 06, 2022"
 excerpt: "ミック経済研究所株式会社様のリニューアルサイトを手掛けました。"
 cover_image: "/images/posts/img3.jpg"
 ---

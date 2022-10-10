@@ -1,6 +1,6 @@
 ---
 title: "Test Post"
-date: "Oct 10 2022"
+date: "Oct 10 2021"
 exerpt: "This is the excerpt"
 cover_image: "/images/posts/img1.jpg"
 ---

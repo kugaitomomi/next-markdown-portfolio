@@ -1,6 +1,6 @@
 ---
 title: "Portfolio02"
-date: "Oct 10, 2022"
+date: "Oct 07, 2022"
 excerpt: "共知総合法律事務所様の事務所開業の伴いサイト作成を行いました。"
 cover_image: "/images/posts/img2.jpg"
 ---

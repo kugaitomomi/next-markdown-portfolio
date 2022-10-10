@@ -1,6 +1,6 @@
 ---
 title: "Portfolio03"
-date: "Oct 10, 2022"
+date: "Oct 08, 2022"
 excerpt: "Blue Ocean Ishigaki様の新規オープンに伴いサイト作成を行いました。"
 cover_image: "/images/posts/img1.jpg"
 ---
